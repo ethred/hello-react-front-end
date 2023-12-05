@@ -91,7 +91,6 @@ Login to your GitHub account. Clone this repository to your desired folder:
 
 > cd my-folder
 > git clone https://github.com/ethred/hello-rails-back-end
-hello-rails-back-end.git
 
 
 
